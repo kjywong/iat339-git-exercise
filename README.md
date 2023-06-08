@@ -1,4 +1,4 @@
 # iat339-git-exercise
-TOBO add a description
+TODO add a description
 
-do not add stage
+do not stage
